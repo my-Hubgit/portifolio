@@ -1,0 +1,16 @@
+header {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    /* outras propriedades */
+}
+
+body main img {
+    /* Suas regras de estilo aqui */
+    width: 100%;       /* Exemplo: Largura da imagem */
+    max-width: 600px;  /* Exemplo: Largura máxima da imagem */
+    height: 100%;      /* Exemplo: Altura automática para manter a proporção */
+    border: 2px solid #000;  /* Exemplo: Borda preta de 2px */
+    display: block;    /* Exemplo: Exibir como bloco */
+    margin: 0 auto;    /* Exemplo: Centralizar a imagem */
+}
